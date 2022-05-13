@@ -4,7 +4,7 @@
 
 ### Abstract
 
-The ethical problems of AI science and technology are important but elusive. Their implications are difficult to predict and hard to handle by both the immediate actors and the public. Among many other factors, they affect and complicate the creative space of AI art. This chapter provides a critical outlook on the ethics in the poetic and cultural strategies of contemporary AI art. It provides a contextual overview of the ethical ambiguities of AI research and industry, and discusses the ethical issues of AI art focusing on the sociocultural vectors, expressive approaches, and professional aspects that are crucial for the advancement of the field.
+The ethical problems of AI science and technology are essential but elusive. Their implications are difficult to predict and their fallouts are hard to handle by both the immediate actors and the public. Among many other factors, they affect and complicate the creative space of AI art. This chapter provides a critical outlook on ethics in contemporary AI art. After a contextual overview of the ethical ambiguities of AI research and industry, it discusses the ethical issues of AI art focusing on the sociocultural vectors, expressive strategies, and professional aspects that are crucial for the advancement of the field.
 
 **Keywords:** Art, Artificial Intelligence, Computational Arts, Digital Culture, Ethics, Machine Learning, Poetics.
 
